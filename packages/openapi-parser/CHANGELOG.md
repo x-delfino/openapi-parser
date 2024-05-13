@@ -1,5 +1,15 @@
 # @scalar/openapi-parser
 
+## 0.4.0
+
+### Minor Changes
+
+- 56e7033: feat: file references
+
+### Patch Changes
+
+- 6436ae1: refactor: resolve should resolve (and not validate)
+
 ## 0.3.2
 
 ### Patch Changes
